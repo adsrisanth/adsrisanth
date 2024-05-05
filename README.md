@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adsrisanth&label=Profile%20views&color=0e75b6&style=flat" alt="adsrisanth" /> </p>
 
-<p align="left"> <a href="https://twitter.com/@dineshsrisanth" target="blank"><img src="https://img.shields.io/twitter/follow/@dineshsrisanth?logo=twitter&style=for-the-badge" alt="@dineshsrisanth" /></a> </p>
+<p align="left"> <a href="https://twitter.com/dineshsrisanth" target="blank"><img src="https://img.shields.io/twitter/follow/dineshsrisanth?logo=twitter&style=for-the-badge" alt="dineshsrisanth" /></a> </p>
 
 - 🔭 I’m currently working on [WebFluid](https://github.com/adsrisanth/WebFluid)
 
@@ -25,7 +25,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/@dineshsrisanth" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@dineshsrisanth" height="30" width="40" /></a>
+<a href="https://twitter.com/dineshsrisanth" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="dineshsrisanth" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/in/dinesh-srisanth-adari-860129249" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="in/dinesh-srisanth-adari-860129249" height="30" width="40" /></a>
 <a href="https://fb.com/dinesh.srisanth.5" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="dinesh.srisanth.5" height="30" width="40" /></a>
 <a href="https://instagram.com/srisanth_adari" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="srisanth_adari" height="30" width="40" /></a>
