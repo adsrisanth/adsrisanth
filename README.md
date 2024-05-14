@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on [WebFluid](https://github.com/adsrisanth/WebFluid)
 
-- 🌱 I’m currently learning **Sas,Svelte,MySql,Larvel,.NET,Django,MongoDB,MySql.**
+- 🌱 I’m currently learning **Sas,Svelte,MySql,Larvel,.NET,Django,MongoDB.**
 
 - 👯 I’m looking to collaborate on [WebAppsClub_WebSite](https://github.com/adsrisanth/WebAppsClub_Website.git)
 
