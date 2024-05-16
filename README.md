@@ -21,7 +21,7 @@
 
 - 📄 Know about my experiences [https://jmp.sh/yQp2LeSl](https://jmp.sh/yQp2LeSl)
 
-- ⚡ Fact **I am Sleepy,Feeling Something, which idk..**
+- ⚡ **I am Sleepy,Lazy,Gamer**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
