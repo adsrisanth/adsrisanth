@@ -21,7 +21,7 @@
 
 - 📄 Know about my experiences [https://jmp.sh/yQp2LeSl](https://jmp.sh/yQp2LeSl)
 
-- ⚡ **"I'm a sleepy, gamer who's always on Discord."**
+- ⚡ **"I can't be Bought."**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
