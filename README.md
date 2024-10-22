@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **adsrisanth2005@gmail.com**
 
-- 📄 Know about my experiences [https://jmp.sh/yQp2LeSl](https://jmp.sh/yQp2LeSl)
+- 📄 Know about my experiences [Resume](https://pdfupload.io/docs/390a6cce)
 
 - ⚡ **"I can't be Bought."**
 
