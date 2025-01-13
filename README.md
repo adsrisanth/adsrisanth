@@ -19,7 +19,6 @@
 
 - 📄 Know about my experiences [Resume](https://pdfupload.io/docs/390a6cce)
 
-- ⚡ **"I can't be Bought."**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
