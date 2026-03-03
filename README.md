@@ -20,7 +20,7 @@ Solidity · Ethereum · React · Vue · Node.js · MySQL · MongoDB · Redis · 
 
 ### Links
 - https://srisanth.in 
-- https://linkedin.com/in/dinesh-srisanth  
+- https://linkedin.com/in/dineshsrisanthadari
 - hi@srisanth.in  
 
 ---
